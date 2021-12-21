@@ -1,0 +1,10 @@
+/build
+/node_modules
+/contracts/artifacts
+/coverage
+/.coverage_artifacts
+/.coverage_contracts
+coverage.json
+secrets.json
+.env
+.env.test

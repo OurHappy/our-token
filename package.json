@@ -1,0 +1,23 @@
+{
+  "name": "our-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx truffle test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.4.1",
+    "@openzeppelin/test-helpers": "^0.5.10",
+    "chai": "^4.3.3",
+    "solidity-coverage": "^0.7.16",
+    "truffle-plugin-verify": "^0.5.6"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.2",
+    "truffle": "^5.2.2"
+  }
+}
